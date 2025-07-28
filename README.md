@@ -11,4 +11,6 @@ npm install -D <package-name}
 
 ## npm fund
 
-With this command you can see the place where a package was downloaded.
+With this command you can see the place where a package was downloaded:
+
+![npm fund](images/npm-fund.png)
