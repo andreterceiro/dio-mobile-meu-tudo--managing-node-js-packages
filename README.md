@@ -14,3 +14,8 @@ npm install -D <package-name}
 With this command you can see the place where a package was downloaded:
 
 ![npm fund](images/npm-fund.png)
+
+
+## Slides of the class
+
+[link](https://hermes.dio.me/files/assets/a684aca0-7cf3-4a7b-9c29-f68d085f4009.pptx)
