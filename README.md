@@ -7,3 +7,8 @@ To install a dev dependency, please use the **-D** flag. Example:
 ```sh
 npm install -D <package-name}
 ```
+
+
+## npm fund
+
+With this command you can see the place where a package was downloaded.
