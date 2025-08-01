@@ -20,8 +20,11 @@ With this command you can see the place where a package was downloaded:
 
 In the Explorer box you can click in the three dots and enable the 'NPM scripts' box:
 
-![NPM scripts](images/npm-scripts-through-its-box.png)
+![NPM scripts](images/running-npm-scripts-through-its-box.png)
 
+You can also run a script through package.json
+
+![NPM scripts](images/runnning-npm-scripts-through-package-json.png)
 
 
 ## Slides of the class
